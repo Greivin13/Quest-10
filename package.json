@@ -1,0 +1,29 @@
+{
+  "name": "quest-10",
+  "version": "1.0.0",
+  "description": "This homework is based on module 10 to create a SVG logo maker.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greivin13/Quest-10.git"
+  },
+  "author": "Greivin Arias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Greivin13/Quest-10/issues"
+  },
+  "homepage": "https://github.com/Greivin13/Quest-10#readme",
+  "dependencies": {
+    "inquirer": "^9.2.7"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
